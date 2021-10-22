@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatin30 pursuing Btech+Metch(IT) from IIIT Gwalior.
-- Teaching Assistant and Technical Content Reviewer at GeeksforGeeks, worked with tutorpoint,iMocha.
+- Teaching Assistant and Technical Content Reviewer at GeeksforGeeks, worked with tutorpoint, iMocha.
 - 👀 I’m interested in Android Development, Backend, java,HTML, CSS, JS.
 - 🌱 I’m currently learning Data Structures and Algorithms, Web Development, Backend Development.
 
