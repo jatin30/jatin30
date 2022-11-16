@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jatin30 pursuing Btech+Metch(IT) from IIIT Gwalior.
 - Ex:- Software Developer Intern at Samsung R&D, Technical Content Intern at InterviewBit/Scaler, worked as a Teaching Assistant at GeeksforGeeks.  
-- 👀 I’m interested in Android Development, Backend, java,HTML, CSS, JS.
+- 👀 I’m interested in Backend Web Development, Java Development, Android Development.
 - 🌱 I’m currently learning Web Development, Backend Development.
+- Skills:- Problem Solving, Data Structure, Algorithm design, C++, C , Java, JavaScript (Basic), HTML, CSS, JSP, JDBC, Backend Development, Oracle DB, MySQL, FirebaseDB
 
 <!---
 jatin30/jatin30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
