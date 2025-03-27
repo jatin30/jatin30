@@ -7,7 +7,7 @@
 ## 🧑‍💻 Who Am I?  
 I'm a **Senior Software Engineer at Swimlane**, crafting **scalable, efficient, and AI-powered backend systems**.
 
-With **1 year and 9 months** of experience, I specialize in **architecting APIs, optimizing databases, and integrating automation-driven solutions** to solve real-world challenges.  
+With **1 year and 9 months** of experience, I specialize in **designing Microservices, scaling systen using kubernetes, AWS, de-coupling using Kafka, architecting APIs, optimizing databases (SQL & NoSQL), and integrating automation-driven solutions** to solve real-world challenges.  
 
 🔍 I thrive on **solving complex problems**, writing **clean, maintainable code**, and **staying ahead of the curve** with emerging technologies.  
 
