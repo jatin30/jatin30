@@ -5,7 +5,7 @@
 > 🚀 *Backend Engineer | System Design Enthusiast | DevOps Explorer*  
 
 ## 🧑‍💻 Who Am I?  
-I'm a ** Software Engineer 2 at Wells Fargo**, crafting **scalable, efficient, and AI-powered backend systems**.
+I'm a **Software Engineer 2 at Wells Fargo**, crafting **scalable, efficient, and AI-powered backend systems**.
 
 With over **2 year and 4 months** of experience, I specialize in **designing Microservices, scaling systen using kubernetes, AWS, de-coupling using Kafka, architecting APIs, optimizing databases (SQL & NoSQL), and integrating automation-driven solutions** to solve real-world challenges.  
 
